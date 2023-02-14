@@ -1,4 +1,4 @@
-package com.example.demo2_2_activities;
+package com.example.myapplication;
 
 import org.junit.Test;
 
